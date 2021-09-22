@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "stripe": "^8.176.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "stripe_quickstart",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
